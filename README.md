@@ -12,7 +12,7 @@
 -[Minima](https://cristian1502.github.io/minima/)  
 -[Lagrange](https://cristian1502.github.io/Lagrange/)  
 -[Jekyll-klisé](https://melodic-rabanadas-ff0026.netlify.app/)  
--[Acabado en githubpages](https://cristian1203.github.io/jekyll-klise/)
-- [Pagina en netlify](https://golden-kulfi-1f408b.netlify.app/)
-- [Repositorio personal vinculado ](https://github.com/cristian1203/jekyll-klise/tree/gh-pages)
-- 
+-[Acabado en githubpages](https://cristian1203.github.io/jekyll-klise/)  
+-[Pagina en netlify](https://golden-kulfi-1f408b.netlify.app/)  
+-[Repositorio personal vinculado ](https://github.com/cristian1203/jekyll-klise/tree/gh-pages)
+ 
